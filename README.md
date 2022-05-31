@@ -2,7 +2,7 @@
 <head><h1><center>Путеводитель по Сургуту</center></h1></head>
 <TITLE>Путеводитель по Сургуту</TITLE>
 <BODY LINK="#ffffff" VLINK="#0000ff" ALINK="#f0f8ff" bgcolor="#7fc7ff">
-<p style="text-indent:25px;"><B><i>Сургут</B></i>(хант. Сәрханӆ, Сө̆ркут) — город в России, в Ханты-Мансийском автономном округе — Югре, административный центр Сургутского района. Крупнейший город округа.</p>
+<p style="text-indent:25px;"><B><i>Сургут</i></B>(хант. Сәрханӆ, Сө̆ркут) — город в России, в Ханты-Мансийском автономном округе — Югре, административный центр Сургутского района. Крупнейший город округа.
 <p style="text-indent:25px;">У города имеется многофункциональный <a href="http://admsurgut.ru/">официальный сайт города.</a></p>
 <p style="text-indent:25px;">В интернете можно найти много сайтов, посвященных Сургуту и его достопримечательностям:</p>
 
@@ -22,13 +22,13 @@
 <center><h2>Карта и местоположение</h2></center>
 
 <p><center> Сургут на карте РФ </p></center>
-<p><center><a href="https://yandex.ru/maps/973/surgut/?ll=73.458256%2C61.256009&source=wizgeo&utm_medium=maps-desktop&utm_source=serp&z=11.9"><IMG SRC="2.JPG"></a></center></p>
+<p><center><a href="https://yandex.ru/maps/973/surgut/?ll=73.458256%2C61.256009&source=wizgeo&utm_medium=maps-desktop&utm_source=serp&z=11.9"><IMG SRC="2.JPG"></a></center>
 
 <p><center> Карта Сургута </p></center>
-<p><center><a href="https://yandex.ru/maps/973/surgut/?ll=73.458256%2C61.256009&source=wizgeo&utm_medium=maps-desktop&utm_source=serp&z=11.9"><IMG SRC="1.JPG"></a></center></p>
+<p><center><a href="https://yandex.ru/maps/973/surgut/?ll=73.458256%2C61.256009&source=wizgeo&utm_medium=maps-desktop&utm_source=serp&z=11.9"><IMG SRC="1.JPG"></a></center>
 
 <p><center> Сургут со спутника </p></center>
-<p><center><a href="https://www.google.com/maps/@61.259009,73.402748,8848m/data=!3m1!1e3?hl=ru"><IMG SRC="3.JPG"></a></center></p>
+<p><center><a href="https://www.google.com/maps/@61.259009,73.402748,8848m/data=!3m1!1e3?hl=ru"><IMG SRC="3.JPG"></a></center>
 
 <center><h2>История</h2></center>
 
@@ -103,4 +103,5 @@
 <p style="text-indent:25px;">Стоит над рекой сибирской</p>
 <p style="text-indent:25px;">Прекрасный и величавый</p>
 <p style="text-indent:25px;">Мой город, мой дом – Сургут.</p>
-<p style="text-indent:25px;"><a href="https://youtu.be/A3xvc59xsOQ">Гимн города</a></p>
+<p style="text-indent:25px;"><a href="https://youtu.be/A3xvc59xsOQ">Гимн города</a>
+<p style="text-indent:25px;"><a href="https://youtu.be/A3xvc59xsOQ">Главная страница</a>

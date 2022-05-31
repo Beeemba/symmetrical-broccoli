@@ -22,13 +22,13 @@
 <center><h2>Карта и местоположение</h2></center>
 
 <p><center> Сургут на карте РФ </p></center>
-<p><center><a href="https://yandex.ru/maps/973/surgut/?ll=73.458256%2C61.256009&source=wizgeo&utm_medium=maps-desktop&utm_source=serp&z=11.9"><IMG SRC="2.jpg"></a></center></p>
+<p><center><a href="https://yandex.ru/maps/973/surgut/?ll=73.458256%2C61.256009&source=wizgeo&utm_medium=maps-desktop&utm_source=serp&z=11.9"><IMG SRC="2.JPG"></a></center></p>
 
 <p><center> Карта Сургута </p></center>
-<p><center><a href="https://yandex.ru/maps/973/surgut/?ll=73.458256%2C61.256009&source=wizgeo&utm_medium=maps-desktop&utm_source=serp&z=11.9"><IMG SRC="1.jpg"></a></center></p>
+<p><center><a href="https://yandex.ru/maps/973/surgut/?ll=73.458256%2C61.256009&source=wizgeo&utm_medium=maps-desktop&utm_source=serp&z=11.9"><IMG SRC="1.JPG"></a></center></p>
 
 <p><center> Сургут со спутника </p></center>
-<p><center><a href="https://www.google.com/maps/@61.259009,73.402748,8848m/data=!3m1!1e3?hl=ru"><IMG SRC="3.jpg"></a></center></p>
+<p><center><a href="https://www.google.com/maps/@61.259009,73.402748,8848m/data=!3m1!1e3?hl=ru"><IMG SRC="3.JPG"></a></center></p>
 
 <center><h2>История</h2></center>
 
